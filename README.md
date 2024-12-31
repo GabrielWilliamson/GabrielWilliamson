@@ -1,5 +1,3 @@
-Creating a profile README for a GitHub user is a great way to showcase skills, projects, and interests. Here's an example of a profile README for GabrielWilliamson:
-
 ```markdown
 # Hi there, I'm Gabriel Williamson! 👋
 
@@ -45,5 +43,3 @@ A brief description of Project Name 2. This project is focused on providing a va
 
 
 ```
-
-Feel free to customize this template with your specific details and preferences. This README includes sections about you, the technologies and tools you use, your GitHub stats, top projects, blog posts, and social media links.
