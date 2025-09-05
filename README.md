@@ -1,7 +1,7 @@
 
-# Hi there, I'm Gabriel Williamson!
+## Hi there, I'm Gabriel Williamson!
 
-# My portfolio
+### My blog
 [https://gabrielwilliamson.com](contact@gabrielwilliamson.com)
 
 - 🌱 I’m currently learning **Elixir and Python**
